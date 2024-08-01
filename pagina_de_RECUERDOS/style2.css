@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(11, 11, 11);
+}
+
+img{
+    width: 190px;
+    height: 350px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    background-color: rgb(60, 137, 189);
+    width: 150px;
+    height: 80px;
+    border-radius: 15px;
+    border-color: aliceblue;
+}
